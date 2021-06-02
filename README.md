@@ -1,16 +1,21 @@
-# Hey, Soy Duvan Palacio  👋
-## 💻 Desarrollador web Front-End 💻
+# Hola, Soy Duván Palacio ¡Bienvenido a mi página de Github!  👋
+---
 
-### 🤓 Actualmente me encuentro estudiando y dedicado 100% en ser Desarrollador web Full Stack para asi hacer un cambio de mi carrera 📚
+### 💻¡Soy un desarrollador web Front-End Colombiano, principalmente mi interes es convertirme en **Desarrollador Web Full Stack**, por eso acutualmente me encuentro trabajando en ello realizando estudios autodidactas y con compañeros del gremio. 📚
 
-🤯 Mi experiencia actualmente se baja en el soporte nivel 2 y 3 de plataformas web, creación de ambiente, monitoreo, modificación de base de datos entre otras cosas.
 
-💾 Mi experiencia se basa basicamente en:
-  * JavaScript
-  * Mongo DB
-  * HTML5
-  * CSS3
+⏳ Mi tiempo lo  distribuyo en:
+   * Trabajo para una empresa de desarrollo de software en el area de soporte
+   * Realizo mis estudios formales de la tecnología en desarrollo de software 
+   * Realizo estudio autodidacta  
 
+
+🤓 Actualmente me encuentro estudiando:
+  * Javascript
+  * Angular
+  * React
+  * vue 
+  * Phython
 
   
 ---
