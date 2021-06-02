@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey, Soy Duvan Palacio  👋
+## 💻 Desarrollador web Front-End 💻
 
-<!--
-**duvabh/duvabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤓 Actualmente me encuentro estudiando y dedicado 100% en ser Desarrollador web Full Stack para asi hacer un cambio de mi carrera 📚
 
-Here are some ideas to get you started:
+🤯 Mi experiencia actualmente se baja en el soporte nivel 2 y 3 de plataformas web, creación de ambiente, monitoreo, modificación de base de datos entre otras cosas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 Mi experiencia se basa basicamente en:
+  * JavaScript
+  * Mongo DB
+  * HTML5
+  * CSS3
+
+
+  
+---
+## 💻 Algunas estadísticas 💻
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duvabh&show_icons=true&theme=dark)
