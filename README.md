@@ -1,4 +1,4 @@
-# Hola, Soy Duván Palacio ¡Bienvenido a mi página de Github!  👋
+#¡Bienvenido a mi página de Github! Soy Duvan Palacio  👋
 ---
 
 ### 💻¡Soy un desarrollador web Front-End Colombiano, principalmente mi interes es convertirme en **Desarrollador Web Full Stack**, por eso acutualmente me encuentro trabajando en ello realizando estudios autodidactas y con compañeros del gremio. 📚
